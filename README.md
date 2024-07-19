@@ -1,2 +1,3 @@
-# mynpm-template
-My npm template 
+# @tralsejr/routex-plugins-dino-docs
+
+DinoDoc plugin for routex.

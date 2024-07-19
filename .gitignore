@@ -1,9 +1,9 @@
 /dist
 /node_modules
-
+package-lock.json
 
 # Uncomment these
-# jsconfig.json
-# /__test__
+jsconfig.json
+/__test__
 
 # Custom

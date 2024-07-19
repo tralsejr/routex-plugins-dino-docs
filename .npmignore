@@ -1,6 +1,7 @@
 /__test__
 /src
 /node_modules
+package-lock.json
 
 jsconfig.json
 tsconfig.json
