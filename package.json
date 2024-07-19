@@ -36,8 +36,8 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "@tralsejr/dino-docs-api": "^0.0.3",
-    "@tralsejr/routex": "^0.0.4",
+    "@tralsejr/dino-docs-api": "^0.0.4",
+    "@tralsejr/routex": "^0.0.5",
     "express-validator": "^7.1.0"
   }
 }
