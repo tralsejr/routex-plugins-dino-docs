@@ -1,6 +1,6 @@
 {
   "name": "@tralsejr/routex-plugins-dino-docs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "DinoDoc plugin for routex.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
