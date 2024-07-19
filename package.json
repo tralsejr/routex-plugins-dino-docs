@@ -34,5 +34,9 @@
     "supertest": "^7.0.0",
     "tsup": "^8.1.0",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@tralsejr/dino-docs-api": "^0.0.1",
+    "@tralsejr/routex": "^0.0.1"
   }
 }
