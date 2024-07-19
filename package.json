@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "@tralsejr/dino-docs-api": "^0.0.1",
-    "@tralsejr/routex": "^0.0.1"
+    "@tralsejr/routex": "^0.0.1",
+    "express-validator": "^7.1.0"
   }
 }
