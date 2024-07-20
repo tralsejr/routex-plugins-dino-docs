@@ -1,6 +1,6 @@
 {
   "name": "@tralsejr/routex-plugins-dino-docs",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "DinoDoc plugin for routex.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -36,8 +36,8 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "@tralsejr/dino-docs-api": "^0.0.6",
-    "@tralsejr/routex": "^0.0.5",
+    "@tralsejr/dino-docs-api": "^0.0.7",
+    "@tralsejr/routex": "^0.0.8",
     "express-validator": "^7.1.0"
   }
 }
